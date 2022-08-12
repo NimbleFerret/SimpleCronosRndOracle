@@ -28,8 +28,5 @@ Designed for Moralis x Cronos game hackathon (https://moralis.io/cronos-hackatho
 
 ## Inspired by
 
-# General oracle idea and logic 
-https://docs.replit.com/tutorials/build-smart-contract-oracle#nodejs-data-provider
-
-# Truffle template project and contracts deployment
-https://cronos.org/docs/getting-started/cronos-smart-contract.html#truffle-deploy-erc20-contract
+- General oracle idea and logic - https://docs.replit.com/tutorials/build-smart-contract-oracle#nodejs-data-provider
+- Truffle template project and contracts deployment - https://cronos.org/docs/getting-started/cronos-smart-contract.html#truffle-deploy-erc20-contract
