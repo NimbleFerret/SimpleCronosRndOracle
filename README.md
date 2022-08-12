@@ -4,7 +4,6 @@ Very simple implementation of random oracle for solidity contracts.
 Designed for Moralis x Cronos game hackathon (https://moralis.io/cronos-hackathon/) and will be used to generate random game character stats for NFTs and stuff.
 
 ## From scratch guide
-```bash
 1) Check inspired links in order to understand basic ideas
 2) Install node 16+
 3) Install Metamask and generate a wallet, create second account in it
@@ -17,7 +16,6 @@ Designed for Moralis x Cronos game hackathon (https://moralis.io/cronos-hackatho
 10) Run node.js app by doing: npm i + npm run start
 11) Try request some random from RandomWrapper contract (Call getRandomNumber func)
 12) Check node.js app logs
-```
 
 ## Node.js app logs example:
 ```bash
@@ -29,5 +27,9 @@ Designed for Moralis x Cronos game hackathon (https://moralis.io/cronos-hackatho
 ```
 
 ## Inspired by
+
+# General oracle idea and logic 
 https://docs.replit.com/tutorials/build-smart-contract-oracle#nodejs-data-provider
+
+# Truffle template project and contracts deployment
 https://cronos.org/docs/getting-started/cronos-smart-contract.html#truffle-deploy-erc20-contract
