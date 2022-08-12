@@ -1,0 +1,16 @@
+{
+  "name": "moralis-x-cronos-hackathon-random-oracle",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "nix-deploy-contracts-cronos": "./node_modules/.bin/truffle migrate --reset --network cronos",
+    "win-deploy-contracts-cronos": ".\\node_modules\\.bin\\truffle migrate --reset --network cronos"
+  },
+  "author": "NimbleFerret",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "1.4.1",
+    "dotenv": "10.0.0",
+    "truffle": "5.4.0"
+  }
+}
